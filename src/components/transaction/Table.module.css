@@ -1,0 +1,16 @@
+.transactionHistory {
+  border-collapse: collapse;
+  border: 3px solid grey;
+  margin-top: 30px;
+  width: 600px;
+}
+th,
+td {
+  border: 1px solid grey;
+}
+th {
+  width: 20%;
+}
+td:first-child {
+  width: 30%;
+}
